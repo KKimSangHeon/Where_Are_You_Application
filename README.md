@@ -42,4 +42,4 @@ User의 위치는 카카오톡 yelloID (ID:WhereAreYou)로도 확인이 가능�
 
 [-웹페이지 서버 소스코드](https://github.com/KKimSangHeon/Where_Are_You_JSONPage)
 
-[-소켓서버 소스코드](https://github.com/KKimSangHeon/Where_Are_You_SocketServer)
+[-Java소켓서버 소스코드](https://github.com/KKimSangHeon/Where_Are_You_SocketServer)
