@@ -33,7 +33,7 @@ ClassID로 조회하였을 경우 위와같이 해당 User들이 최근에 위�
 
 ![카카오톡으로 조회[그림3]](https://kkimsangheon.github.io/2017/06/29/where-are-you/where-are-you-result3.png)
 
-User의 위치는 카카오톡 yelloID (ID:WhereAreYou)로도 확인이 가능한데 위와같이 카카오톡을 이용하여 위치 조회가 가능합니다.
+User의 위치는 카카오톡 yelloID (ID:WhereAreYou)로도 확인이 가능한데 위와같이 카카오톡을 이용하여 위치 조회가 가능합니다
 
 ## 소스코드 (Github Repository)
 [-안드로이드 어플리케이션 소스코드](https://github.com/KKimSangHeon/Where_Are_You_Application)
